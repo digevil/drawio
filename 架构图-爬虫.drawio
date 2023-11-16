@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T06:49:13.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="F_PZXIgXiKU9QSjKTQUQ" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T06:49:52.826Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZvUw1vS2UqhyP7kkgAie" version="22.1.2" type="github">
   <diagram name="应用架构" id="T5enPagGDyysxPcJfKMC">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,6 +121,15 @@
         </mxCell>
         <mxCell id="0L6g8Bv2ZHw3Gg-m8TPL-2" value="结果数据回传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="201" y="880" width="102" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0L6g8Bv2ZHw3Gg-m8TPL-3" value="管理后台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0L6g8Bv2ZHw3Gg-m8TPL-4" value="服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0L6g8Bv2ZHw3Gg-m8TPL-5" value="客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="810" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
